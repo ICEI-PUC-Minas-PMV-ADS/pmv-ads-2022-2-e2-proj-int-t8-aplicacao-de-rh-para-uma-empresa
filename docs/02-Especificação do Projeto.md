@@ -3,12 +3,10 @@
 A definição exata do problema e os pontos mais relevantes a serem tratados neste projeto foi consolidada com a participação dos usuários em um trabalho de imersão, feito pelos membros da equipe a partir da observação dos usuários em seu local natural e por meio de entrevistas. Os detalhes levantados nesse processo foram consolidados na forma de personas e histórias de usuários
 
 ## Personas
-|   Helen Cerquera   |                                    |                |
+|   Atila Gonçalves   |                                    |                |
 |--------------------|------------------------------------|----------------------------------------|
-|![](https://user-images.githubusercontent.com/97108151/164240211-6fa45779-3d0b-4c6c-b4a5-8485c2ce0656.jpg)|**Idade:** 33 anos - **Ocupação:** Recrutamento e seleção.
-Formada em Gestão em Recursos Humanos, Helen é responsável por buscar os profissionais mais alinhados às necessidades da empresa, não somente no sentido técnico do cargo, mas também em relação à cultura organizacional.  
- |**Aplicativos:** Instagram,Facebook,Whatsapp.|
-
+|![](https://user-images.githubusercontent.com/97108151/164240211-6fa45779-3d0b-4c6c-b4a5-8485c2ce0656.jpg)|**Idade:** 34 anos - **Ocupação:** Recrutamento e seleção, Formada em gestão e recursos humanos Helen é responsável por buscar os profissionais mais alinhados às necessidades da empresa |**Aplicativos:** Instagram,Facebook,Whatsapp.|
+|**Motivações:** Atila trabalha admnistrando a hamburgueria. Também cria 2 filhos menores,E eles são o maior motivo em que atila está no mercado, Quer mudar o patamar financeiro da Familia e também se destacar como uma pessoa inovadora no mercado.|**Frustrações:** O Pouco contato com os filhos e não poder inseri-los no mercado juntamente com ele. Um inicio com um foco diferente do seu negócio e Poucas soluções para se expandir |**Hobbies:** Aos finais de semana, Átila Gosta de investir o seu tempo em leituras, musicas, e até mesmo jogar um futebol, além de passear no parque com seus filhos |
 
 
 
