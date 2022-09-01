@@ -6,7 +6,7 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 ## Personas
 |    HELEN CERQUEIRA  |                                    |                |
 |--------------------|------------------------------------|----------------------------------------|
-|![](https://user-images.githubusercontent.com/97108151/187811786-7e85686d-d941-4ec0-b6eb-522b555d6944.jpg)|**Idade:** 34 anos - **Ocupação:** Recrutamento e seleção, Formada em gestão e recursos humanos Helen é responsável por buscar os profissionais mais alinhados às necessidades da empresa |**Aplicativos:** Instagram,Facebook,Whatsapp.
+|![wuk-unsplash](https://user-images.githubusercontent.com/97108151/187960759-116acebb-a807-4135-a6b0-155a37ffd946.jpg)|**Idade:** 34 anos - **Ocupação:** Recrutamento e seleção, Formada em gestão e recursos humanos Helen é responsável por buscar os profissionais mais alinhados às necessidades da empresa |**Aplicativos:** Instagram,Facebook,Whatsapp.
 |**Motivações:** Helen gosta de sua profissão e espera contratar pessoas que sejam adequadas para cada tipo de vaga, por isso, o mesmo está sempre em busca de mais conhecimento sobre comportamentos de outras pessoas |**Frustrações:** Por trabalhar com o recrutamento de pessoas, Helen se sente desmotivado com plataformas que dificultam seu contato com os profissionais.|**Hobbies:** Helen, está sempre em busca de  aperfeiçoamento para saber lidar com pessoas, em seu tempo livre, busca leituras e aulas de comportamento humano |
 <p align = "center">Fonte: Elaborado pelos autores</p>
 
@@ -15,31 +15,50 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 
 |    SIDNEY GOMES |                                    |                |
 |--------------------|------------------------------------|----------------------------------------|
-|![jonas-kakaroto-Fs8ZFfVh-cg-unsplash](https://user-images.githubusercontent.com/97108151/187814920-e1a58b32-a081-4512-9396-93a90cf4c6b0.jpg)|**Idade:** 40 anos -**Ocupação:** Auxiliar de logística. Responsável  por representar a empresa na rua, dirigir caminhões e outros veículos para realizar serviços de logística como  busca de mercadoria nos fornecedores e entrega de mercadorias para os clientes, Sempre cumprindo com a rota do dia |**Aplicativos:** Waze,TMS,Whatsapp.
+|![jonas-kakaroto-Fs8ZFfVh-cg-unsplash](https://user-images.githubusercontent.com/97108151/187960200-f00a5e48-1dcd-4c21-9ab5-c22ff08614bf.jpg)|**Idade:** 40 anos -**Ocupação:** Auxiliar de logística. Responsável  por representar a empresa na rua, dirigir caminhões e outros veículos para realizar serviços de logística como  busca de mercadoria nos fornecedores e entrega de mercadorias para os clientes, Sempre cumprindo com a rota do dia |**Aplicativos:** Waze,TMS,Whatsapp.
 |**Motivações:** Sidney sempre gostou de Trabalhar duro, auxiliar no crescimento da empresa, coordenar a execução dos processos.|**Frustrações:** Sidney acredita que não tem o reconhecimento que merecia dentro da empresa|**Hobbies:** Sidney adora ir em eventos automobilístico| 
+<p align = "center">Fonte: Elaborado pelos autores</p>
+
+<br>
+<p align = "center">Quadro 3  - Persona Gabriela de Jesus</p>
+
+|     GABRIELA DE JESUS |                                    |                |
+|--------------------|------------------------------------|----------------------------------------|
+|![cunsplash](https://user-images.githubusercontent.com/97108151/187960528-abdf1198-5ece-46d4-8768-ab1c6acc0e25.jpg)|**Idade:** 28 anos -**Ocupação:** Treinamento e Alinhamento. Formada em Administração de Empresas, Gabriela é responsável pela preparação do colaborador, para o desempenho de atribuições relativas às competências e atribuições do cargo que irá atuar. |**Aplicativos:** LinkedIn , Softwares de análise comportamentais ,Learning Experience Platform: SkillHub..
+|**Motivações:** Gabriela gosta de trabalhar se envolvendo com pessoas, e quer se destacar em ser uma pessoa inovadora |**Frustrações:** |**Hobbies:** Passear com a familía e amigos| 
+<p align = "center">Fonte: Elaborado pelos autores</p>
+
+<br>
+<p align = "center">Quadro 5  - Persona Paula Borges</p>
+
+|     PAULA BORGES |                                    |                |
+|--------------------|------------------------------------|----------------------------------------|
+|![plash](https://user-images.githubusercontent.com/97108151/187967554-8f7fde5f-be71-4c30-9c88-60c9d60c76bc.jpg)|**Idade:** 43 anos -**Ocupação:** Atendimento SAC aos clientes via telefone, whatsapp e telegram. |**Aplicativos:** LinkedIn , SacDigital ,Telegram.
+|**Motivações:** Moradora do interior e deficiente física. Por usar cadeira de rodas e a falta de infraestruturas que facilitam o deslocamento de cadeirantes. Desde que surgiu a opção de home office ela pode conquistar essa vaga de atendente gerando mais qualidade de vida e uma renda a mais em sua família. |**Frustrações:** Falta de oportunidades de crescimento, por falta de inclusão|**Hobbies:** Assistir jogos de Volêi em arenas com sua familía| 
 <p align = "center">Fonte: Elaborado pelos autores</p>
 
 <br>
 
 
 
+
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+<p align = "center">Quadro 6  - Histórias de Usuários </p>
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `O QUE` |PARA ... `PORQUE`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Sidney Gomes  | Saber corretamente o valor a receber pelas horas trabalhadas           | Fazer corretamente meu controle de contas do mês               |
+|Sidney Gomes       | Poder ir direto pro primeiro cliente, sem necessidade de ir a empresa bater ponto       | Otimizar o tempo gasto nos deslocamentos e economia de combustível.|
+|Gabriela de Jesus  | Poder acompanhar diariamente se os funcionários estão cumprindo a jornada de trabalho| para saber se a distribuição de tarefas total esta podendo ser executada em tempo hábil |
+|Gabriela de Jesus | Acompanhar o pagamento correto aos funcionários| evitar problemas e futuros transtornos. |
+|Paula Borges | Poder trabalhar diretamente de casa.| Possuo deficiência física que dificulta a locomoção, de home office tenho mais qualidade de vida. |
+<p align = "center">Fonte: Elaborado pelos autores</p>
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
+<br>
 
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
+
 
 ## Requisitos
 
@@ -47,7 +66,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos Funcionais
 
-<p align = "center">Quadro .. - Requisitos funcionais</p>
+<p align = "center">Quadro 7 - Requisitos funcionais</p>
 <div align = "center">
 
 |ID    | Descrição do Requisito  | Prioridade |
@@ -61,7 +80,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 <p align = "center">Fonte: Elaborado pelos autores</p>
 
 ### Requisitos não Funcionais
-<p align = "center">Quadro 00 - Requisitos não funcionais</p>
+<p align = "center">Quadro 8 - Requisitos não funcionais</p>
 
 <div align = "center">
 
@@ -79,7 +98,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 ## Restrições
 
 As questões que limitam a execução desse projeto e que se configuram como obrigações claras para o desenvolvimento do projeto em questão são apresentadas na tabela a seguir: 
- <p align = "center">Quadro  - Restrições</p>
+ <p align = "center">Quadro 9 - Restrições</p>
 
 <div align = "center">
 
