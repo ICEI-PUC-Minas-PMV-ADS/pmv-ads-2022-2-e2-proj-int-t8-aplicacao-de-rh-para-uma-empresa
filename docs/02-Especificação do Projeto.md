@@ -103,9 +103,9 @@ O diagrama contempla as principais ligações previstas entre casos de uso e ato
  
  <p align = "center">Figura 1 - Diagrama de Casos de Uso</p>
 
-
- ![](https://user-images.githubusercontent.com/97108151/187820109-e718ff5f-cd54-4a39-b736-c500896ba0e7.jpg )
- 
+<div align = "center">
+ <img src="https://user-images.githubusercontent.com/97108151/187820109-e718ff5f-cd54-4a39-b736-c500896ba0e7.jpg" width="600" >
+ </div>
   <p align = "center">Fonte: Elaborado pelos autores</p>
 
 <br>
