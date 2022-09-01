@@ -3,7 +3,7 @@
 A definição exata do problema e os pontos mais relevantes a serem tratados neste projeto foi consolidada com a participação dos usuários em um trabalho de imersão, feito pelos membros da equipe a partir da observação dos usuários em seu local natural e por meio de entrevistas. Os detalhes levantados nesse processo foram consolidados na forma de personas e histórias de usuários
 
 ## Personas
-|   Atila Gonçalves   |                                    |                |
+|    HELEN CERQUEIRA  |                                    |                |
 |--------------------|------------------------------------|----------------------------------------|
 |![](https://user-images.githubusercontent.com/97108151/187811786-7e85686d-d941-4ec0-b6eb-522b555d6944.jpg)|**Idade:** 34 anos - **Ocupação:** Recrutamento e seleção, Formada em gestão e recursos humanos Helen é responsável por buscar os profissionais mais alinhados às necessidades da empresa |**Aplicativos:** Instagram,Facebook,Whatsapp.
 |**Motivações:** Helen gosta de sua profissão e espera contratar pessoas que sejam adequadas para cada tipo de vaga, por isso, o mesmo está sempre em busca de mais conhecimento sobre comportamentos de outras pessoas |**Frustrações:** Por trabalhar com o recrutamento de pessoas, Helen se sente desmotivado com plataformas que dificultam seu contato com os profissionais.|**Hobbies:** Helen, está sempre em busca de  aperfeiçoamento para saber lidar com pessoas, em seu tempo livre, busca leituras e aulas de comportamento humano |
