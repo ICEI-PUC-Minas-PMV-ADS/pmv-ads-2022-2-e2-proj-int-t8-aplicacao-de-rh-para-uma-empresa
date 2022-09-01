@@ -1,46 +1,32 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+O trabalho em modo remoto, tornou-se algo comum no pilar social. A gestão de tempo otimizada é um dos benefícios que acompanha o  home office, resultando em uma ótima opção para a empresa e o colaborador.
+  Devido a essa nova modalidade de trabalho, o setor de recursos humanos se torna prejudicado, caso a empresa não conte com um sistema de ponto eficiente. Ter o registro de pontos do funcionário assegura que a empresa não tenha complicações jurídicas, e obtém o controle de que o trabalhador não trabalhe além dos horários estabelecidos.
+  Diante disso, é de suma importância uma ferramenta segura, que contabilize e armazene os horários corretamente, registrado pelo colaborador.
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
+Conforme exposto, o problema que se busca resolver com este projeto é o registro de pontos dos funcionários que trabalham de forma remota, isso de forma correta e segura. Tudo através de uma aplicação web.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
+O objetivo é a criação de uma aplicação web, onde torna-se possível o registro de ponto dos funcionários. Como objetivos específicos, podemos ressaltar:
+*Permitir melhor controle do espelho de ponto
+*Cálculo de pagamento de acordo com horas trabalhadas.
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
-
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
+Devido a pandemia teve-se como consequência, novas modalidades de trabalho, o home office, como exemplo atingiu mais de 9 milhões de pessoas, segundo o Instituto Brasileiro de Geografia e Estatística (IBGE). Com o número crescente de serviços remotos, as empresas necessitam de uma forma ágil e segura para administrar as horas trabalhadas de seus funcionários. A CLT dispensa a necessidade e controle de jornada dos trabalhadores que prestam serviços na condição de home Office.
+ # 7 estatísticas home office
+*Mesmo antes da pandemia do coronavírus, cerca de 3,8 milhões de brasileiros já trabalham remotamente – e, com tudo o que estamos vivendo, há motivos para acreditar que esse número só deve aumentar daqui para frente.
+*A grande maioria dos profissionais prefere trabalhar de casa, com uma pesquisa mostrando que 98% das pessoas gostaria de trabalhar em home office ao menos uma vez na vida.
+*A possibilidade de trabalho remoto afeta diretamente o nível de felicidade e satisfação de um profissional.
+*Desde o início da pandemia, as estatísticas de home office mostram que 78% dos brasileiros se sentem mais produtivos trabalhando remotamente.
+*1 em cada 5 profissionais brasileiros listaram as distrações causadas pela presença família como o maior desafio do home office.
+*O modelo de trabalho home office se tornou o padrão para ao menos 43% das empresas brasileiras.
+*Mesmo depois do fim da pandemia, estatísticas home office indicam que o modelo de trabalho home office deve crescer cerca de 30% no Brasil.
+fonte:  https://www.oberlo.com.br/blog/estatisticas-home-office
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+Estabeleceu-se como público-alvo desse projeto, funcionários que trabalham de forma remota e empresários.
