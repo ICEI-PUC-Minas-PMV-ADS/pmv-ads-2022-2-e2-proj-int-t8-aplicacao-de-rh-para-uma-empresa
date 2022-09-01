@@ -1,25 +1,29 @@
 # APLICAÇÃO DE RH VISANDO EMPRESAS
+![image](https://user-images.githubusercontent.com/97108151/187807452-7367c8ce-8818-40d3-88fa-2dc31ce4394c.png)
 
 
 
-`CURSO`
+ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
 
-`DISCIPLINA`
+Projeto:Desenvolvimento de uma Aplicação Interativa
 
-`SEMESTRE`
+Eixo 2
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Davi Ribeiro Santos
+* Franciele Balverde de Souza
+* Lucas Damasceno Pinto
+* Luiz Fernando Ribeiro Ferreira
+* Nathalia Liberato de Abreu
+* Patrick Douglas dos Santos
 
 ## Orientador
 
-* Nome completo do professor 1
+* Daniela Carvalho Monteiro Ferreira
+
 
 ## Instruções de utilização
 
