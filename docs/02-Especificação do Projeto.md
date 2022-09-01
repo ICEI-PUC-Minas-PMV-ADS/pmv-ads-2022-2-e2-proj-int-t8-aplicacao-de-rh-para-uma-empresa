@@ -3,10 +3,11 @@
 A definição exata do problema e os pontos mais relevantes a serem tratados neste projeto foi consolidada com a participação dos usuários em um trabalho de imersão, feito pelos membros da equipe a partir da observação dos usuários em seu local natural e por meio de entrevistas. Os detalhes levantados nesse processo foram consolidados na forma de personas e histórias de usuários
 
 ## Personas
-|   HELEN CERQUEIRA   |                                    |                |
+|   Helen Cerquera   |                                    |                |
 |--------------------|------------------------------------|----------------------------------------|
-|![](https://user-images.githubusercontent.com/97108151/164240211-6fa45779-3d0b-4c6c-b4a5-8485c2ce0656.jpg)|**Idade:** 32anos - **Ocupação:** Recrutamento e seleção.
-Formada em Gestão em Recursos Humanos, Helen é responsável por buscar os profissionais mais alinhados às necessidades da empresa, não somente no sentido técnico do cargo, mas também em relação à cultura organizacional. |**Aplicativos:** Instagram,Facebook,Whatsapp.|
+|![](https://user-images.githubusercontent.com/97108151/164240211-6fa45779-3d0b-4c6c-b4a5-8485c2ce0656.jpg)|**Idade:** 33 anos - **Ocupação:** Recrutamento e seleção.
+Formada em Gestão em Recursos Humanos, Helen é responsável por buscar os profissionais mais alinhados às necessidades da empresa, não somente no sentido técnico do cargo, mas também em relação à cultura organizacional.  
+ |**Aplicativos:** Instagram,Facebook,Whatsapp.|
 
 
 
