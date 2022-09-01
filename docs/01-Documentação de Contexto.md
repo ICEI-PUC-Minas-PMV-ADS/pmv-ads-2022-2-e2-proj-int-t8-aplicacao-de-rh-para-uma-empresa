@@ -10,7 +10,7 @@ Conforme exposto, o problema que se busca resolver com este projeto é o registr
 
 ## Objetivos
 O objetivo é a criação de uma aplicação web, onde torna-se possível o registro de ponto dos funcionários. Como objetivos específicos, podemos ressaltar:
-<ul type="circle">
+<ul type="square">
   <li>Permitir melhor controle do espelho de ponto</li>
   <li>Cálculo de pagamento de acordo com horas trabalhadas.</li>
   </ul>
