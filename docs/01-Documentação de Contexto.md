@@ -16,7 +16,7 @@ O objetivo é a criação de uma aplicação web, onde torna-se possível o regi
 
 ## Justificativa
 Devido a pandemia teve-se como consequência, novas modalidades de trabalho, o home office, como exemplo atingiu mais de 9 milhões de pessoas, segundo o Instituto Brasileiro de Geografia e Estatística (IBGE). Com o número crescente de serviços remotos, as empresas necessitam de uma forma ágil e segura para administrar as horas trabalhadas de seus funcionários. A CLT dispensa a necessidade e controle de jornada dos trabalhadores que prestam serviços na condição de home Office.
- # 7 estatísticas home office
+ #### 7 estatísticas home office
 *Mesmo antes da pandemia do coronavírus, cerca de 3,8 milhões de brasileiros já trabalham remotamente – e, com tudo o que estamos vivendo, há motivos para acreditar que esse número só deve aumentar daqui para frente.
 *A grande maioria dos profissionais prefere trabalhar de casa, com uma pesquisa mostrando que 98% das pessoas gostaria de trabalhar em home office ao menos uma vez na vida.
 *A possibilidade de trabalho remoto afeta diretamente o nível de felicidade e satisfação de um profissional.
