@@ -19,12 +19,12 @@ Devido a pandemia teve-se como consequência, novas modalidades de trabalho, o h
  #### 7 estatísticas home office
  <ol>
 <li>Mesmo antes da pandemia do coronavírus, cerca de 3,8 milhões de brasileiros já trabalham remotamente – e, com tudo o que estamos vivendo, há motivos para acreditar que esse número só deve aumentar daqui para frente.</li>
-*A grande maioria dos profissionais prefere trabalhar de casa, com uma pesquisa mostrando que 98% das pessoas gostaria de trabalhar em home office ao menos uma vez na vida.
-*A possibilidade de trabalho remoto afeta diretamente o nível de felicidade e satisfação de um profissional.
-*Desde o início da pandemia, as estatísticas de home office mostram que 78% dos brasileiros se sentem mais produtivos trabalhando remotamente.
-*1 em cada 5 profissionais brasileiros listaram as distrações causadas pela presença família como o maior desafio do home office.
-*O modelo de trabalho home office se tornou o padrão para ao menos 43% das empresas brasileiras.
-*Mesmo depois do fim da pandemia, estatísticas home office indicam que o modelo de trabalho home office deve crescer cerca de 30% no Brasil.
+<li>A grande maioria dos profissionais prefere trabalhar de casa, com uma pesquisa mostrando que 98% das pessoas gostaria de trabalhar em home office ao menos uma vez na vida.</li>
+<li>A possibilidade de trabalho remoto afeta diretamente o nível de felicidade e satisfação de um profissional.</li>
+<li>Desde o início da pandemia, as estatísticas de home office mostram que 78% dos brasileiros se sentem mais produtivos trabalhando remotamente.</li>
+<li>1 em cada 5 profissionais brasileiros listaram as distrações causadas pela presença família como o maior desafio do home office.</li>
+<li>O modelo de trabalho home office se tornou o padrão para ao menos 43% das empresas brasileiras.</li>
+<li>Mesmo depois do fim da pandemia, estatísticas home office indicam que o modelo de trabalho home office deve crescer cerca de 30% no Brasil.</li>
   </ol>
 fonte:  https://www.oberlo.com.br/blog/estatisticas-home-office
 
