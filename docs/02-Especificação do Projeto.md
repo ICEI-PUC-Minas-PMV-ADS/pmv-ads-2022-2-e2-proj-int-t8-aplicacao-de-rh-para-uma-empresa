@@ -71,7 +71,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-002| O site deverá ser responsivo permitindo a visualização em um celular de forma adequada |  ALTA | 
 |RNF-003| O site deve ter bom nível de contraste entre os elementos da tela em conformidade |  MÉDIA | 
 |RNF-004| O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge) |  BAIXA | 
- /div>
+ </div>
 
 <p align = "center">Fonte: Elaborado pelos autores</p>
 
@@ -93,17 +93,19 @@ As questões que limitam a execução desse projeto e que se configuram como obr
 </div>
 
 <p align = "center">Fonte: Elaborado pelos autores</p>
-<br>
+
 
 
 
 ## Diagrama de Casos de Uso
 
 O diagrama contempla as principais ligações previstas entre casos de uso e atores e permite detalhar os Requisitos Funcionais identificados na etapa de licitação. Lembrando que  não se utiliza diagramas de caso de uso para requisitos não-funcionais. Como atores é importante a identificação dos grupos de todos os envolvidos que interagem com o sistema, principalmente outros sistemas ou sensores. Eles são representados graficamente por bonecos-palito e são nomeados pelos papéis nas interações nas quais estão envolvidos (ex. Cliente, Administrador). Lembre-se de que o próprio sistema não pode ser ator do diagrama que o modela. Em relação aos casos de uso, eles devem representar as interações ou transações dos atores com o sistema. Cada tipo possível é representada por uma elipse nomeada e os relacionamentos são indicados por linhas que podem ter setas nos casos em que se indica a origem da interação. Os nomes dos casos de uso representam verbos no infinitivo associados aos objetos com os quais se relacionam os verbos (ex. Cadastrar usuário, Visualizar relatório). Os tipos de relacionamentos mais comuns são associações entre atores e casos de uso, generalizações entre atores e entre casos de uso, inclusões e extensão entre casos de uso.
+ 
  <p align = "center">Figura 1 - Diagrama de Casos de Uso</p>
 
- <div align = "center">
-  ![](https://user-images.githubusercontent.com/97108151/187820109-e718ff5f-cd54-4a39-b736-c500896ba0e7.jpg)
+
+ ![](https://user-images.githubusercontent.com/97108151/187820109-e718ff5f-cd54-4a39-b736-c500896ba0e7.jpg )
+ 
   <p align = "center">Fonte: Elaborado pelos autores</p>
 
 <br>
