@@ -5,8 +5,9 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 ## Personas
 |   Atila Gonçalves   |                                    |                |
 |--------------------|------------------------------------|----------------------------------------|
-|![](https://user-images.githubusercontent.com/97108151/164240211-6fa45779-3d0b-4c6c-b4a5-8485c2ce0656.jpg)|**Idade:** 34 anos - **Ocupação:** Recrutamento e seleção, Formada em gestão e recursos humanos Helen é responsável por buscar os profissionais mais alinhados às necessidades da empresa |**Aplicativos:** Instagram,Facebook,Whatsapp.|
-|**Motivações:** Atila trabalha admnistrando a hamburgueria. Também cria 2 filhos menores,E eles são o maior motivo em que atila está no mercado, Quer mudar o patamar financeiro da Familia e também se destacar como uma pessoa inovadora no mercado.|**Frustrações:** O Pouco contato com os filhos e não poder inseri-los no mercado juntamente com ele. Um inicio com um foco diferente do seu negócio e Poucas soluções para se expandir |**Hobbies:** Aos finais de semana, Átila Gosta de investir o seu tempo em leituras, musicas, e até mesmo jogar um futebol, além de passear no parque com seus filhos |
+|![](https://user-images.githubusercontent.com/97108151/187811786-7e85686d-d941-4ec0-b6eb-522b555d6944.jpg)
+|**Idade:** 34 anos - **Ocupação:** Recrutamento e seleção, Formada em gestão e recursos humanos Helen é responsável por buscar os profissionais mais alinhados às necessidades da empresa |**Aplicativos:** Instagram,Facebook,Whatsapp.|
+|**Motivações:** Helen gosta de sua profissão e espera contratar pessoas que sejam adequadas para cada tipo de vaga, por isso, o mesmo está sempre em busca de mais conhecimento sobre comportamentos de outras pessoas |**Frustrações:** Por trabalhar com o recrutamento de pessoas, Helen se sente desmotivado com plataformas que dificultam seu contato com os profissionais.|**Hobbies:** Helen, está sempre em busca de  aperfeiçoamento para saber lidar com pessoas, em seu tempo livre, busca leituras e aulas de comportamento humano |
 
 
 
