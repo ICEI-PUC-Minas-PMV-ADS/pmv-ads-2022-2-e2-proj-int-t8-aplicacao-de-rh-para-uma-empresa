@@ -8,6 +8,12 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 |![](https://user-images.githubusercontent.com/97108151/187811786-7e85686d-d941-4ec0-b6eb-522b555d6944.jpg)|**Idade:** 34 anos - **Ocupação:** Recrutamento e seleção, Formada em gestão e recursos humanos Helen é responsável por buscar os profissionais mais alinhados às necessidades da empresa |**Aplicativos:** Instagram,Facebook,Whatsapp.
 |**Motivações:** Helen gosta de sua profissão e espera contratar pessoas que sejam adequadas para cada tipo de vaga, por isso, o mesmo está sempre em busca de mais conhecimento sobre comportamentos de outras pessoas |**Frustrações:** Por trabalhar com o recrutamento de pessoas, Helen se sente desmotivado com plataformas que dificultam seu contato com os profissionais.|**Hobbies:** Helen, está sempre em busca de  aperfeiçoamento para saber lidar com pessoas, em seu tempo livre, busca leituras e aulas de comportamento humano |
 
+|    SIDNEY GOMES |                                    |                |
+|--------------------|------------------------------------|----------------------------------------|
+|![jonas-kakaroto-Fs8ZFfVh-cg-unsplash](https://user-images.githubusercontent.com/97108151/187814920-e1a58b32-a081-4512-9396-93a90cf4c6b0.jpg)
+|**Idade:** 40 anos - **Ocupação:** Auxiliar de logística. Responsável  por representar a empresa na rua, dirigir caminhões e outros veículos para realizar serviços de logística como  busca de mercadoria nos fornecedores e entrega de mercadorias para os clientes, Sempre cumprindo com a rota do dia |**Aplicativos:** Waze,TMS,Whatsapp.
+|**Motivações:** Sidney sempre gostou de Trabalhar duro, auxiliar no crescimento da empresa, coordenar a execução dos processos.|**Frustrações:** Sidney acredita que não tem o reconhecimento que merecia dentro da empresa|**Hobbies:** Sidney adora ir em eventos automobilístico|
+
 
 
 ## Histórias de Usuários
