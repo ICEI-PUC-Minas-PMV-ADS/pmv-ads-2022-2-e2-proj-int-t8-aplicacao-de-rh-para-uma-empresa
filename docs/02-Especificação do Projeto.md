@@ -16,7 +16,7 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 |    SIDNEY GOMES |                                    |                |
 |--------------------|------------------------------------|----------------------------------------|
 |![jonas-kakaroto-Fs8ZFfVh-cg-unsplash](https://user-images.githubusercontent.com/97108151/187960200-f00a5e48-1dcd-4c21-9ab5-c22ff08614bf.jpg)|**Idade:** 40 anos -**Ocupação:** Auxiliar de logística. Responsável  por representar a empresa na rua, dirigir caminhões e outros veículos para realizar serviços de logística como  busca de mercadoria nos fornecedores e entrega de mercadorias para os clientes, Sempre cumprindo com a rota do dia |**Aplicativos:** Waze,TMS,Whatsapp.
-|**Motivações:** Sidney sempre gostou de Trabalhar duro, auxiliar no crescimento da empresa, coordenar a execução dos processos.|**Frustrações:** Falta de oportunidades e crescimento na vida profissional |**Hobbies:** Sidney adora ir em eventos automobilístico| 
+|**Motivações:** Sidney sempre gostou de Trabalhar duro, auxiliar no crescimento da empresa, coordenar a execução dos processos.|**Frustrações:** Falta de oportunidades e crescimento na vida profissional |**Hobbies:** Participar de eventos automobilísticos| 
 <p align = "center">Fonte: Elaborado pelos autores</p>
 
 <br>
