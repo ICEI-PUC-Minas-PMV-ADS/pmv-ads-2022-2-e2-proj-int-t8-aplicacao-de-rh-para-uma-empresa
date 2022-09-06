@@ -16,7 +16,7 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 |    SIDNEY GOMES |                                    |                |
 |--------------------|------------------------------------|----------------------------------------|
 |![jonas-kakaroto-Fs8ZFfVh-cg-unsplash](https://user-images.githubusercontent.com/97108151/187960200-f00a5e48-1dcd-4c21-9ab5-c22ff08614bf.jpg)|**Idade:** 40 anos -**Ocupação:** Auxiliar de logística. Responsável  por representar a empresa na rua, dirigir caminhões e outros veículos para realizar serviços de logística como  busca de mercadoria nos fornecedores e entrega de mercadorias para os clientes, Sempre cumprindo com a rota do dia |**Aplicativos:** Waze,TMS,Whatsapp.
-|**Motivações:** Sidney sempre gostou de Trabalhar duro, auxiliar no crescimento da empresa, coordenar a execução dos processos.|**Frustrações:** Sidney acredita que não tem o reconhecimento que merecia dentro da empresa|**Hobbies:** Sidney adora ir em eventos automobilístico| 
+|**Motivações:** Sidney sempre gostou de Trabalhar duro, auxiliar no crescimento da empresa, coordenar a execução dos processos.|**Frustrações:** Falta de oportunidades e crescimento na vida profissional |**Hobbies:** Sidney adora ir em eventos automobilístico| 
 <p align = "center">Fonte: Elaborado pelos autores</p>
 
 <br>
@@ -25,7 +25,7 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 |     GABRIELA DE JESUS |                                    |                |
 |--------------------|------------------------------------|----------------------------------------|
 |![cunsplash](https://user-images.githubusercontent.com/97108151/187960528-abdf1198-5ece-46d4-8768-ab1c6acc0e25.jpg)|**Idade:** 28 anos -**Ocupação:** Treinamento e Alinhamento. Formada em Administração de Empresas, Gabriela é responsável pela preparação do colaborador, para o desempenho de atribuições relativas às competências e atribuições do cargo que irá atuar. |**Aplicativos:** LinkedIn , Softwares de análise comportamentais ,Learning Experience Platform: SkillHub..
-|**Motivações:** Gabriela gosta de trabalhar se envolvendo com pessoas, e quer se destacar em ser uma pessoa inovadora |**Frustrações:** |**Hobbies:** Passear com a familía e amigos| 
+|**Motivações:** Gabriela gosta de trabalhar se envolvendo com pessoas, e quer se destacar em ser uma pessoa inovadora |**Frustrações:** Falta de interesse das pessoas em treinamentos focado em desenvolvimento pessoal.  |**Hobbies:** Passear com a familía e amigos| 
 <p align = "center">Fonte: Elaborado pelos autores</p>
 
 <br>
@@ -33,7 +33,7 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 
 |     PAULA BORGES |                                    |                |
 |--------------------|------------------------------------|----------------------------------------|
-|![plash](https://user-images.githubusercontent.com/97108151/187967554-8f7fde5f-be71-4c30-9c88-60c9d60c76bc.jpg)|**Idade:** 43 anos -**Ocupação:** Atendimento SAC aos clientes via telefone, whatsapp e telegram. |**Aplicativos:** LinkedIn , SacDigital ,Telegram.
+|![plash](https://user-images.githubusercontent.com/97108151/187967554-8f7fde5f-be71-4c30-9c88-60c9d60c76bc.jpg)|**Idade:** 43 anos -**Ocupação:** Assistente de Recursos Humanos, responsável por conduzir o programa de inclusão de pessoas com deficiência, planejamento logístico  |**Aplicativos:** LinkedIn , E-mail,Telegram.
 |**Motivações:** Moradora do interior e deficiente física. Por usar cadeira de rodas e a falta de infraestruturas que facilitam o deslocamento de cadeirantes. Desde que surgiu a opção de home office ela pode conquistar essa vaga de atendente gerando mais qualidade de vida e uma renda a mais em sua família. |**Frustrações:** Falta de oportunidades de crescimento, por falta de inclusão|**Hobbies:** Assistir jogos de Volêi em arenas com sua familía| 
 <p align = "center">Fonte: Elaborado pelos autores</p>
 
@@ -128,4 +128,11 @@ O diagrama contempla as principais ligações previstas entre casos de uso e ato
   <p align = "center">Fonte: Elaborado pelos autores</p>
 
 <br>
+<p align = "center">Figura 2 - Diagrama de Casos de Uso</p>
 
+<div align = "center">
+ <img src="https://user-images.githubusercontent.com/97108151/188532253-262b8a9a-7008-48f7-842f-4ede2db818d9.png" width="600" >
+ </div>
+  <p align = "center">Fonte: Elaborado pelos autores</p>
+
+<br>
