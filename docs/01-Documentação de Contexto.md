@@ -36,8 +36,4 @@ Devido a pandemia teve-se como consequência, novas modalidades de trabalho, o h
 
 Estabeleceu-se como público-alvo desse projeto, funcionários que trabalham de forma remota e empresários.
 
-## Vídeo 
-A apresentação dos itens descritos acima e da proposta de encontra-se no vídeo abaixo 👇:
 
-<video src="https://user-images.githubusercontent.com/97108151/189484806-0c218744-0c98-43f6-a275-2c1a788d256b.mp4"></video>
-  
