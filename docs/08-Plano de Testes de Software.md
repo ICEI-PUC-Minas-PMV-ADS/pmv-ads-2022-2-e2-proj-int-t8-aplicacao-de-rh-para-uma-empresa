@@ -1,25 +1,28 @@
-# Plano de Testes de Software
-
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>
 
-Apresente os cenários de testes utilizados na realização dos testes da sua aplicação. Escolha cenários de testes que demonstrem os requisitos sendo satisfeitos.
+**Os requisitos para realização dos testes de software são:<br> 
+    - Site publicado na Internet <br> 
+    - Navegador da Internet - Chrome <br> 
+    - Conectividade de Internet para acesso às plataformas** <br> 
 
-Não deixe de enumerar os casos de teste de forma sequencial e de garantir que o(s) requisito(s) associado(s) a cada um deles está(ão) correto(s) - de acordo com o que foi definido na seção "2 - Especificação do Projeto". 
+Os testes funcionais a serem realizados no aplicativo são descritos a seguir.
+
 
 Por exemplo:
- 
-| **Caso de Teste** 	| **CT-01 – Cadastrar perfil** 	|
+
+| **Caso de Teste** 	| **CT-01 – Visualizar pagina inicial** 	|
 |:---:	|:---:	|
-|	Requisito Associado 	| RF-00X - A aplicação deve apresentar, na página principal, a funcionalidade de cadastro de usuários para que esses consigam criar e gerenciar seu perfil. |
-| Objetivo do Teste 	| Verificar se o usuário consegue se cadastrar na aplicação. |
-| Passos 	| - Acessar o navegador <br> - Informar o endereço do site https://adota-pet.herokuapp.com/src/index.html<br> - Clicar em "Criar conta" <br> - Preencher os campos obrigatórios (e-mail, nome, sobrenome, celular, CPF, senha, confirmação de senha) <br> - Aceitar os termos de uso <br> - Clicar em "Registrar" |
-|Critério de Êxito | - O cadastro foi realizado com sucesso. |
+|	Requisito Associado 	|RF-01 - Na página principal do site deve exigir login e senha para que o usuário tenha acesso ao sistema. |
+| Objetivo do Teste 	| Verificar se o sistema de login e senha estao funcionando corretamentes |
+| Passos 	| - 1. Acessar o navegador <br> 2.Informar o endereço do Site <br> 3.Visualizar a página principal <br> 4. Acessar com login e senha 
+|Critério de Êxito | - Login e senha devem ser executados sem erro. |
 |  	|  	|
-| Caso de Teste 	| CT-02 – Efetuar login	|
-|Requisito Associado | RF-00Y	- A aplicação deve possuir opção de fazer login, sendo o login o endereço de e-mail. |
-| Objetivo do Teste 	| Verificar se o usuário consegue realizar login. |
-| Passos 	| - Acessar o navegador <br> - Informar o endereço do site https://adota-pet.herokuapp.com/src/index.html<br> - Clicar no botão "Entrar" <br> - Preencher o campo de e-mail <br> - Preencher o campo da senha <br> - Clicar em "Login" |
-|Critério de Êxito | - O login foi realizado com sucesso. |
+| **Caso de Teste**	| **CT-02 – Pagina de registro de pontos**	|
+|Requisito Associado | O site deve deve ter página de registro de pontos, onde usuário poderá registrar o início e fim da jornada de trabalho|
+| Objetivo do Teste 	| Verificar se os registros estao sendo executados corretamente conforme horario de brasilia e salvo no banco de dados |
+| Passos 	| 1. Acessar o navegador <br> 2.Informar o endereço do Site <br> 3.Visualizar a página principal <br> 4. Acessar com login e senha <br> 5. Acesar pagina de registro de pontos e fazer o registro |
+|Critério de Êxito | - Registro salvo com sucesso conforme horario de brasilia |
+
 
  
 > **Links Úteis**:
