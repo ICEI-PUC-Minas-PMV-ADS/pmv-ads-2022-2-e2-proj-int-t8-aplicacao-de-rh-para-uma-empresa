@@ -1,36 +1,92 @@
 
 # Projeto de Interface
+ **01 Fluxo do Usuário** <br>
+O diagrama apresentado na Figura 01 mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Wireframes que se segue.
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
+![Exemplo de Diagrama de Fluxo](img/wire1.png)
 
-Visão geral da interação do usuário pelas telas do sistema e protótipo interativo das telas com as funcionalidades que fazem parte do sistema (wireframes).
 
- Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada de forma a atender os requisitos funcionais, não funcionais e histórias de usuário abordados nas <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>.
+**02 Wireframes** <br>
+As telas do projeto, se baseiam no fluxo do usuário detalhado no item anterior. Essas wireframes são similares entre si e estão compostas basicamente de quatro blocos, a saber, o cabeçalho, conteúdo e o rodapé. Abaixo estão listados os significados de cada um dos blocos.
 
-## Diagrama de Fluxo
+    • Cabeçalho - região onde se localizam os elementos fixos de identidade (logo)  e a barra de navegação principal do site (menu da aplicação);
+    • Conteúdo - apresenta o conteúdo da tela do site com informações, cadastros e consultas;
+    • Rodapé - região que apresenta informações sobre os criadores do site.
+<br>
 
-O diagrama apresenta o estudo do fluxo de interação do usuário com o sistema interativo e  muitas vezes sem a necessidade do desenho do design das telas da interface. Isso permite que o design das interações seja bem planejado e gere impacto na qualidade no design do wireframe interativo que será desenvolvido logo em seguida.
+**1.1 Tela de login** <br>
 
-O diagrama de fluxo pode ser desenvolvido com “boxes” que possuem internamente a indicação dos principais elementos de interface - tais como menus e acessos - e funcionalidades, tais como editar, pesquisar, filtrar, configurar - e a conexão entre esses boxes a partir do processo de interação. Você pode ver mais explicações e exemplos https://www.lucidchart.com/blog/how-to-make-a-user-flow-diagram.
+Essa tela permite ao usuário adentrar no site por meio de um cadastro previamente realizado. As informações que explicam a função da página estão dispostas num painel simples, com os dizeres “Faça seu login”, permitindo uma compreensão rápida, para o usuário, da função da página.
+O painel possui três campos de preenchimento para o usuário, sendo que ambos contém dizeres que explicam a função daquele campo. No caso, o campo de inserira seu CPG previamente cadastrado, e, logo abaixo, o campo para a senha cadastrada e a opção de seleção funcionário sou gestão de RH.
+	Além disso, também contém uma caixa assinalável ─ “lembrar-me” ─ cuja função é manter o preenchimento automático dos dois campos de preenchimento, tornando mais ágil o processo de login nas próximas vezes.
 
-![Exemplo de Diagrama de Fluxo](img/diagramafluxo2.jpg)
+Figura 2 - Login versão desktop
 
-As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas de Fluxo”.
+![Exemplo de Diagrama de Fluxo](img/wire2.png)
 
-> **Links Úteis**:
-> - [Fluxograma online: seis sites para fazer gráfico sem instalar nada | Produtividade | TechTudo](https://www.techtudo.com.br/listas/2019/03/fluxograma-online-seis-sites-para-fazer-grafico-sem-instalar-nada.ghtml)
+Figura 3 - Login versão mobile
 
-## Wireframes
+![Exemplo de Diagrama de Fluxo](img/wire3.png)
 
-![Exemplo de Wireframe](img/wireframe-example.png)
+**1.2 Tela bem vindo**
+<br>
+![Exemplo de Diagrama de Fluxo](img/wire4.png)
 
-São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
+
+Figura 5 – Bem vindo (funcionário) versão mobile
+
+![Exemplo de Diagrama de Fluxo](img/wire5.png)
+
+Figura 6 – Bem vindo (gestão/RH(ADM)) versão desktop
+
+![Exemplo de Diagrama de Fluxo](img/wire6.png)
+
+Figura 7 – Bem vindo (gestão/RH(ADM)) versão mobile
+
+![Exemplo de Diagrama de Fluxo](img/wire7.png)
+
+**1.3Marcar ponto** <br>
+
+Tela utilizada para funcionários registrarem o ponto no home office, disponível também na tela de gestor/RH(ADM) <br>
+
+Figura 8 – Marcar ponto versão desktop
+
+![Exemplo de Diagrama de Fluxo](img/wire8.png)
+
+Figura 9 – Marcar ponto versão mobile
+
+![Exemplo de Diagrama de Fluxo](img/wire9.png)
+
+**1.4 Consulta de cartão de ponto** <br>
+Consulta cartão de ponto versão desktop <br>
+![Exemplo de Diagrama de Fluxo](img/wire10.png)
+
+ Consulta cartão de ponto versão mobile
  
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [Axure](https://www.axure.com/edu) (Licença Educacional)
-> - [InvisionApp](https://www.invisionapp.com/) (Licença Educacional)
+ ![Exemplo de Diagrama de Fluxo](img/wire11.png)
+
+**1.5Tela de Contatos – Fale conosco** <br>
+Consulta holerite versão desktop
+
+ ![Exemplo de Diagrama de Fluxo](img/wire12.png)
+ 
+ Consulta holerite versão mobile
+ 
+  ![Exemplo de Diagrama de Fluxo](img/wire13.png)
+  
+  **1.6 Tela de cadastro de novo usuário** <br>
+  
+  Usada para cadastrar novos usuários dos funcionários. <br>
+  
+  Cadastro de novo usuário versão desktop
+  
+   ![Exemplo de Diagrama de Fluxo](img/wire14.png)
+   
+   Cadastro de novo usuário versão mobile
+   
+   ![Exemplo de Diagrama de Fluxo](img/wire15.png)
+  
+
+  
+
+
