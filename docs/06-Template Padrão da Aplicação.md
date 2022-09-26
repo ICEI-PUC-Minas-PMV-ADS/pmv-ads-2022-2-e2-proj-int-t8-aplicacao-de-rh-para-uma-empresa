@@ -1,12 +1,74 @@
-# Template Padrão da Aplicação
+**1.1 Tela de login** <br>
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>
+Essa tela permite ao usuário adentrar no site por meio de um cadastro previamente realizado. As informações que explicam a função da página estão dispostas num painel simples, com os dizeres “Faça seu login”, permitindo uma compreensão rápida, para o usuário, da função da página.
+O painel possui três campos de preenchimento para o usuário, sendo que ambos contém dizeres que explicam a função daquele campo. No caso, o campo de inserira seu CPG previamente cadastrado, e, logo abaixo, o campo para a senha cadastrada e a opção de seleção funcionário sou gestão de RH.
+	Além disso, também contém uma caixa assinalável ─ “lembrar-me” ─ cuja função é manter o preenchimento automático dos dois campos de preenchimento, tornando mais ágil o processo de login nas próximas vezes.
 
-Layout padrão da aplicação que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
+Figura 2 - Login versão desktop
 
-> **Links Úteis**:
->
-> - [CSS Website Layout (W3Schools)](https://www.w3schools.com/css/css_website_layout.asp)
-> - [Website Page Layouts](http://www.cellbiol.com/bioinformatics_web_development/chapter-3-your-first-web-page-learning-html-and-css/website-page-layouts/)
-> - [Perfect Liquid Layout](https://matthewjamestaylor.com/perfect-liquid-layouts)
-> - [How and Why Icons Improve Your Web Design](https://usabilla.com/blog/how-and-why-icons-improve-you-web-design/)
+![Exemplo de Diagrama de Fluxo](img/wire2.png)
+
+Figura 3 - Login versão mobile
+
+![Exemplo de Diagrama de Fluxo](img/wire3.png)
+
+**1.2 Tela bem vindo**
+<br>
+![Exemplo de Diagrama de Fluxo](img/wire4.png)
+
+
+Figura 5 – Bem vindo (funcionário) versão mobile
+
+![Exemplo de Diagrama de Fluxo](img/wire5.png)
+
+Figura 6 – Bem vindo (gestão/RH(ADM)) versão desktop
+
+![Exemplo de Diagrama de Fluxo](img/wire6.png)
+
+Figura 7 – Bem vindo (gestão/RH(ADM)) versão mobile
+
+![Exemplo de Diagrama de Fluxo](img/wire7.png)
+
+**1.3Marcar ponto** <br>
+
+Tela utilizada para funcionários registrarem o ponto no home office, disponível também na tela de gestor/RH(ADM) <br>
+
+Figura 8 – Marcar ponto versão desktop
+
+![Exemplo de Diagrama de Fluxo](img/wire8.png)
+
+Figura 9 – Marcar ponto versão mobile
+
+![Exemplo de Diagrama de Fluxo](img/wire9.png)
+
+**1.4 Consulta de cartão de ponto** <br>
+Consulta cartão de ponto versão desktop <br>
+![Exemplo de Diagrama de Fluxo](img/wire10.png)
+
+ Consulta cartão de ponto versão mobile
+ 
+ ![Exemplo de Diagrama de Fluxo](img/wire11.png)
+
+**1.5Tela de Contatos – Fale conosco** <br>
+Consulta holerite versão desktop
+
+ ![Exemplo de Diagrama de Fluxo](img/wire12.png)
+ 
+ Consulta holerite versão mobile
+ 
+  ![Exemplo de Diagrama de Fluxo](img/wire13.png)
+  
+  **1.6 Tela de cadastro de novo usuário** <br>
+  
+  Usada para cadastrar novos usuários dos funcionários. <br>
+  
+  Cadastro de novo usuário versão desktop
+  
+   ![Exemplo de Diagrama de Fluxo](img/wire14.png)
+   
+   Cadastro de novo usuário versão mobile
+   
+   ![Exemplo de Diagrama de Fluxo](img/wire15.png)
+  
+
+  
