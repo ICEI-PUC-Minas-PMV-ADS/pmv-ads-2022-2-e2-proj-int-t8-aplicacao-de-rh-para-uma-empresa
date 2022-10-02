@@ -1,7 +1,6 @@
 
 # Metodologia
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
 O desenvolvimento desse projeto, originou-se da observação do número crescente de serviços remotos, as empresas necessitam de uma forma ágil e segura para administrar as horas trabalhadas de seus funcionários.
 Serão feitas reuniões entre a equipe de forma on-line na ferramenta Teams, através de conversas pelo aplicativo WhatsApp e se necessário, serão usadas outras ferramentas que auxiliem o encontro da equipe, para o desenvolvimento do projeto.
