@@ -3,7 +3,9 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+O desenvolvimento desse projeto, originou-se da observação do número crescente de serviços remotos, as empresas necessitam de uma forma ágil e segura para administrar as horas trabalhadas de seus funcionários.
+Serão feitas reuniões entre a equipe de forma on-line na ferramenta Teams, através de conversas pelo aplicativo WhatsApp e se necessário, serão usadas outras ferramentas que auxiliem o encontro da equipe, para o desenvolvimento do projeto.
+Durante este trabalho, será usada a metodologia Scrum de desenvolvimento ágil, dividindo o esforço de entrega em sprints de duas semanas.
 
 ## Controle de Versão
 
@@ -37,9 +39,26 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 ## Gerenciamento de Projeto
 
-### Divisão de Papéis
+### Divisão de Papéis <br>
 
-Apresente a divisão de papéis entre os membros do grupo.
+A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento.
+ 
+A equipe está organizada da seguinte maneira: <br>
+●     Scrum Master: Luiz Fernando <br>
+●     Product Owner: Davi Ribeiro Santos <br>
+●     Equipe de Desenvolvimento <br>
+○     Patrick Douglas dos Santos <br>
+ 
+Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Trello estruturado com as seguintes listas: <br>
+ 
+●     Recursos: esta lista mantém template de tarefas recorrentes com as configurações padronizadas que todos devem seguir. O objetivo é permitir a cópia destes templates para agilizar a criação de novos cartões. <br>
+●     Backlog: recebe as tarefas a serem trabalhadas e representa o Product Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista. <br>
+●     To Do: Esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando.<br>
+●     Doing: Quando uma tarefa tiver sido iniciada, ela é movida para cá.<br>
+●     Test: Checagem de Qualidade. Quando as tarefas são concluídas, eles são movidos para o “CQ”. No final da semana, eu revejo essa lista para garantir que tudo saiu perfeito.<br>
+●     Done: nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação.<br>
+●     Locked: Quando alguma coisa impede a conclusão da tarefa, ela é movida para esta lista juntamente com um comentário sobre o que está travando a tarefa.<br>
+ 
 
 > **Links Úteis**:
 > - [11 Passos Essenciais para Implantar Scrum no seu 
