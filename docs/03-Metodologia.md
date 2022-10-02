@@ -38,10 +38,19 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento.
  
 A equipe está organizada da seguinte maneira: <br>
-●     Scrum Master: Luiz Fernando <br>
-●     Product Owner: Davi Ribeiro Santos <br>
-●     Equipe de Desenvolvimento <br>
-○     Patrick Douglas dos Santos <br>
+<ul type=> 
+            <li>Scrum Master: Luiz Fernando</li>
+            <li>Product Owner: Davi Ribeiro Santos</li>
+            <li> Equipe de Desenvolvimento:</li>
+           <ul type="circle">
+            <li>Diego Fraga </li>
+            <li>Lucas Damasceno Pinto </li>
+            <li>Nathalia Liberato de Abreu </li>
+            <li>Franciele Balverde </li>
+ </ul>
+            <li>Equipe de Design: Patrick Douglas dos Santos</li>
+        </ul>
+
  
 Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Trello estruturado com as seguintes listas: <br>
  
