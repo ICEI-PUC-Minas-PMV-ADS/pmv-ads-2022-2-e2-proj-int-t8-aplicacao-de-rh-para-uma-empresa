@@ -7,7 +7,7 @@
 ![Exemplo de Diagrama de Fluxo](img/diagrama.png)
 
 
-## Modelo ER (
+## Modelo ER 
 O Modelo ER representa através de um diagrama como as entidades (coisas, objetos) se relacionam entre si na aplicação interativa.
 
 A figura baixo ilustra o Modelo ER para o sistema proposto.
