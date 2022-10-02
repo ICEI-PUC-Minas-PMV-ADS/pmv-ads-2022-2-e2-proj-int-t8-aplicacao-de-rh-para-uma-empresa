@@ -2,7 +2,7 @@
 
 
 
-## Diagrama 
+## Diagrama de Classes
 
 ![Exemplo de Diagrama de Fluxo](img/diagrama.png)
 
