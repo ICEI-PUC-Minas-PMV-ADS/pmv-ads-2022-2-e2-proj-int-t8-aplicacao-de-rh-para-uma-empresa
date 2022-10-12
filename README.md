@@ -1,15 +1,19 @@
 # APLICAÇÃO DE RH VISANDO EMPRESAS
-![image](https://user-images.githubusercontent.com/97108151/187807452-7367c8ce-8818-40d3-88fa-2dc31ce4394c.png)
+![image](https://i.ibb.co/F7xt2gq/download-1.png)
 
+<hr>
 
 
 ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
 
-Projeto:Desenvolvimento de uma Aplicação Interativa
+Projeto: T8 - Grupo 04 - Desenvolvimento de uma Aplicação Interativa <br>
+Eixo 2  - 2022/02
 
-Eixo 2
-
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O objetivo é a criação de uma aplicação web, onde torna-se possível o registro de ponto dos funcionários. Como objetivos específicos, podemos ressaltar:
+<ul type="square">
+  <li>Permitir melhor controle do espelho de ponto</li>
+  <li>Cálculo de pagamento de acordo com horas trabalhadas.</li>
+  </ul>
 
 ## Integrantes
 
@@ -18,22 +22,23 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 * Lucas Damasceno Pinto
 * Luiz Fernando Ribeiro Ferreira
 * Nathalia Liberato de Abreu
-* Patrick Douglas dos Santos
+* Patrick Douglas dos Santos Diego 
+* Diego Victor Fraga Menighin
 
 ## Orientador
 
 * Daniela Carvalho Monteiro Ferreira
 
 
-## Instruções de utilização
-
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
-
-Não deixe de informar o link onde a aplicação estiver disponível para acesso (por exemplo: https://adota-pet.herokuapp.com/src/index.html).
-
-Se houver usuário de teste, o login e a senha também deverão ser informados aqui (por exemplo: usuário - admin / senha - admin).
-
-O link e o usuário/senha descritos acima são apenas exemplos de como tais informações deverão ser apresentadas.
+## Instruções de utilização <br>
+<ul>
+  <li>Site disponibiliado na internet</li>
+  <li>Devera ser utilizado no navegador google chrome.</li>
+  </ul>
+<ul>
+  <li> Usuario de teste - login : 0101</li>
+  <li> Usuario de teste - senha : 0101</li>
+  </ul>
 
 # Documentação
 
@@ -59,4 +64,4 @@ O link e o usuário/senha descritos acima são apenas exemplos de como tais info
 
 # Apresentação
 
-<li><a href="presentation/README.md"> Apresentação da solução</a></li>
+<video src="https://user-images.githubusercontent.com/97108151/189484806-0c218744-0c98-43f6-a275-2c1a788d256b.mp4"></video>
