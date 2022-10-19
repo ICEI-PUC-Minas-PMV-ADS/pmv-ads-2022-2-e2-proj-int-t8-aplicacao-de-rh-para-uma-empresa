@@ -1,7 +1,5 @@
 # APLICAÇÃO DE RH VISANDO EMPRESAS
-![image](https://i.ibb.co/F7xt2gq/download-1.png)
-
-<hr>
+![ponto](https://user-images.githubusercontent.com/97108151/196748497-49202684-7ca7-444b-a415-f7f53c5c3a13.png)<hr>
 
 
 ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
