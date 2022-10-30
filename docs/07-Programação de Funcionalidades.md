@@ -9,7 +9,7 @@ Por exemplo: a tabela a seguir deverá ser preenchida considerando os artefatos 
 |ID    | Descrição do Requisito  | Artefato(s) produzido(s) |
 |------|-----------------------------------------|----|
 |RF-001| Exigir Login e senha | Login | 
-|RF-002| Usuario registrar entrada/saida  | Registro de ponto |
+|RF-002| Usuario registrar hora de trabalho/valor da hora | Registro de ponto |
 
 # Instruções de acesso
 
@@ -21,8 +21,8 @@ LInk de acesso :
   <li>Devera ser utilizado no navegador google chrome.</li>
   </ul>
 <ul>
-  <li> Usuario de teste - login : 0101</li>
-  <li> Usuario de teste - senha : 0101</li>
+  <li> Usuario de teste - login : admin</li>
+  <li> Usuario de teste - senha : admin</li>
   </ul>
 
 
