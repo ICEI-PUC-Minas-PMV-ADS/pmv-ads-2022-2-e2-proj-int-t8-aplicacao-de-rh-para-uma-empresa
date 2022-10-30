@@ -22,12 +22,16 @@ Por exemplo:
 | Objetivo do Teste 	| Verificar se os registros estao sendo executados corretamente conforme horario de brasilia e salvo no banco de dados |
 | Passos 	| 1. Acessar o navegador <br> 2.Informar o endereço do Site <br> 3.Visualizar a página principal <br> 4. Acessar com login e senha <br> 5. Acesar pagina de registro de pontos e fazer o registro |
 |Critério de Êxito | - Registro salvo com sucesso conforme horario de brasilia |
+|  	|  	|
+**Caso de Teste** 	| **CT-03 – Pagina de calculo de valores** 	|
+|:---:	|:---:	|
+|	Requisito Associado 	| Pagina de calculo de valor aonde usuario ira informar horas trabalhadas no mes e valor da sua hora de trabalho. |
+| Objetivo do Teste 	| Verificar de a pagina esta devolvendo a informação |
+| Passos 	| - 1. Acessar o navegador <br> 2.Informar o endereço do Site <br> 3.Visualizar a página principal <br> 4. Acesar pagina de calculo e executar
+|Critério de Êxito | - Retornando o calculo corretamente. |
+|  	|  	|
 
-| **Caso de Teste**	| **CT-03 – Pagina de calculo de valores *	|
-|Requisito Associado | Pagina de calculo de valor aonde usuario ira informar horas trabalhadas no mes e valor da sua hora de trabalho|
-| Objetivo do Teste 	|Verificar de a pagina esta devolvendo a informação |
-| Passos 	| 1. Acessar o navegador <br> 2.Informar o endereço do Site <br> 3.Visualizar a página principal <br> 4. Acessar com login e senha <br> 5. Acesar pagina de calculo e executar |
-|Critério de Êxito | - Retornando o calculo corretamente |
+
 
 
 
