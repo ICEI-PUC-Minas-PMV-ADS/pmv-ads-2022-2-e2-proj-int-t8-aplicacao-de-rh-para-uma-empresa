@@ -34,8 +34,8 @@ O objetivo é a criação de uma aplicação web, onde torna-se possível o regi
   <li>Devera ser utilizado no navegador google chrome.</li>
   </ul>
 <ul>
-  <li> Usuario de teste - login : 0101</li>
-  <li> Usuario de teste - senha : 0101</li>
+  <li> Usuario de teste - login : admin</li>
+  <li> Usuario de teste - senha : admin</li>
   </ul>
 
 # Documentação
