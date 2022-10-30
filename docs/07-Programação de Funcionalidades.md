@@ -10,6 +10,7 @@ Por exemplo: a tabela a seguir deverá ser preenchida considerando os artefatos 
 |------|-----------------------------------------|----|
 |RF-001| Exigir Login e senha | Login | 
 |RF-002| Usuario registrar hora de trabalho/valor da hora | Registro de ponto |
+|RF-003| Sistema informar ao usuario quanto ira receber | Calculo de valores|
 
 # Instruções de acesso
 
