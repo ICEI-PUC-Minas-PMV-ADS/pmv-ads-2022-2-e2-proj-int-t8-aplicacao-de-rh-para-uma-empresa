@@ -16,7 +16,6 @@ O objetivo é a criação de uma aplicação web, onde torna-se possível o regi
 ## Integrantes
 
 * Davi Ribeiro Santos
-* Franciele Balverde de Souza
 * Lucas Damasceno Pinto
 * Luiz Fernando Ribeiro Ferreira
 * Nathalia Liberato de Abreu
