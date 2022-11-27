@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Davir\\source\\repos\\pmv-ads-2022-2-e2-proj-int-t8-aplicacao-de-rh-para-uma-empresa\\src\\BEMQ\\ControleDeContatos\\ControleDeContatos.csproj": {}
+    "C:\\Users\\Luizão\\Source\\Repos\\pmv-ads-2022-2-e2-proj-int-t8-aplicacao-de-rh-para-uma-empresa\\src\\BEMQ\\ControleDeContatos\\ControleDeContatos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Davir\\source\\repos\\pmv-ads-2022-2-e2-proj-int-t8-aplicacao-de-rh-para-uma-empresa\\src\\BEMQ\\ControleDeContatos\\ControleDeContatos.csproj": {
+    "C:\\Users\\Luizão\\Source\\Repos\\pmv-ads-2022-2-e2-proj-int-t8-aplicacao-de-rh-para-uma-empresa\\src\\BEMQ\\ControleDeContatos\\ControleDeContatos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Davir\\source\\repos\\pmv-ads-2022-2-e2-proj-int-t8-aplicacao-de-rh-para-uma-empresa\\src\\BEMQ\\ControleDeContatos\\ControleDeContatos.csproj",
+        "projectUniqueName": "C:\\Users\\Luizão\\Source\\Repos\\pmv-ads-2022-2-e2-proj-int-t8-aplicacao-de-rh-para-uma-empresa\\src\\BEMQ\\ControleDeContatos\\ControleDeContatos.csproj",
         "projectName": "ControleDeContatos",
-        "projectPath": "C:\\Users\\Davir\\source\\repos\\pmv-ads-2022-2-e2-proj-int-t8-aplicacao-de-rh-para-uma-empresa\\src\\BEMQ\\ControleDeContatos\\ControleDeContatos.csproj",
-        "packagesPath": "C:\\Users\\Davir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Davir\\source\\repos\\pmv-ads-2022-2-e2-proj-int-t8-aplicacao-de-rh-para-uma-empresa\\src\\BEMQ\\ControleDeContatos\\obj\\",
+        "projectPath": "C:\\Users\\Luizão\\Source\\Repos\\pmv-ads-2022-2-e2-proj-int-t8-aplicacao-de-rh-para-uma-empresa\\src\\BEMQ\\ControleDeContatos\\ControleDeContatos.csproj",
+        "packagesPath": "C:\\Users\\Luizão\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Luizão\\Source\\Repos\\pmv-ads-2022-2-e2-proj-int-t8-aplicacao-de-rh-para-uma-empresa\\src\\BEMQ\\ControleDeContatos\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Davir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Luizão\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -84,7 +88,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

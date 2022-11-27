@@ -1,34 +1,31 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
-@{
+﻿@{
+    ViewData["Title"] = "Calculo";
 }
 <!DOCTYPE html>
-<html lang="pt-br" s>
+<html lang="pt-br" >
 
 <body>
-
-    <header id="header">
-
-        <h1 class="display-4 d-grid gap-2 d-md-flex justify-content-md-center">Teste Horas</h1>
-    </header>
+    <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+        <a class="btn btn-outline-secondary" asp-controller="Home" asp-action="Index" role="button">Voltar</a>
+    </div>
 <br />
-
+    <h2 class="display-4 d-grid gap-2 d-md-flex justify-content-md-center">Calcular Horas</h2>
+    <br />
     <form id="formulario">
-        <h2 class="text-black-50 d-grid gap-2 d-md-flex justify-content-md-center">Calculo Horas:</h2>
+      
 
         <label for="chegadaHora">
             <fieldset id="chegada">
-                <legend class="texto" id=" legend1"> Hora da Chegada </legend>
+                <legend class="texto d-grid gap-2 d-md-flex justify-content-md-center" id=" legend1"> Hora da Chegada </legend>
                 <input id="chegadaHora" type="text" maxlength="2" size="2" placeholder="00">
                 <p class="cor">:</p>
                 <input id="chegadaMin" type="text" maxlength="2" size="2" placeholder="00">
             </fieldset>
         </label>
-
+        <br />
         <label for="saidaHora">
             <fieldset id="saida">
-                <legend class=" text-black-50" id="legend2"> Hora da Saída </legend>
+                <legend class="texto d-grid gap-2 d-md-flex justify-content-md-center" id="legend2"> Hora da Saída </legend>
                 <input id="saidaHora" type="text" maxlength="2" size="2" placeholder="00">
                 <p class="cor">:</p>
                 <input id="saidaMin" type="text" maxlength="2" size="2" placeholder="00">
@@ -36,39 +33,39 @@
         </label>
     </form>
     <br />
-
+   
     <div>
-        <button class="btn btn-info btn-block" onclick="horasTrabalhadas();">Calcular Tempo</button>
-
+        <button class="btn btn-info btn-block" onclick="horasTrabalhadas();">Calcular</button>
         <fieldset id="resultado">
-            <legend class="display-5 d-grid gap-2 d-md-flex justify-content-md-center " id="legend3">Tempo Trabalhado</legend>
+            <legend class="display-5 d-grid gap-2 d-md-flex justify-content-md-center text-danger "  id="legend3">Tempo Trabalhado no Dia</legend>
             <p class="display-5 d-grid gap-2 d-md-flex justify-content-md-center " id="total"></p>
         </fieldset>
+       
+       
     </div>
-
+    
 </body>
 </html>
 <style>
-    body {
-        margin-inline: 3%;
-    }
+   
     .cor{
         font-weight:800
     }
     .texto{
         color:black;
+       
     }
 
-
+  
     form {
-        display: flow-root;
+        display: block;
         margin: auto;
-        width: 45%;
-        background-color: #f1f1f1;
+        width: 250px;
+       
         color: #f1f1f1;
-        
     }
 
+  
     fieldset {
         display: flex;
         padding: 0%;
@@ -78,7 +75,7 @@
 
 
     input {
-        margin: auto;
+        
         height: 70px;
         font-size: 200%;
         font-weight: 500;
