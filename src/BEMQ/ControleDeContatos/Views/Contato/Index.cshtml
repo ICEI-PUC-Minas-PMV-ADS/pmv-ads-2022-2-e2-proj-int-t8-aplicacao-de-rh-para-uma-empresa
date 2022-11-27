@@ -26,7 +26,7 @@
 
     <br />
 
-    <h2 class="display-4">Demonstrativo de Horas</h2>
+    <h2 class="display-4">Registros de Entrada</h2>
     <div class="d-grid gap-2 d-md-flex justify-content-md-end">
         
     </div>
@@ -55,7 +55,7 @@
                         <td>@contato.Matricula</td>
                         <td class ="horacor1">@contato.Entrada</td>
                         <td class="horacor1">@contato.Saida</td>
-                        <td class="horacor">09:00</td>
+                        
                         <td>
                             <div class="btn-group" role="group">
                                 <a role="button" asp-action="Editar" asp-controller="Contato" asp-route-id="@contato.Id" class="btn btn-info">Editar</a>
@@ -72,10 +72,8 @@
         </tbody>
     </table>
     <style>
-        .horacor {
-           font-weight:600;
-            color:#69be28;
-        }
+       
+       
 
         .horacor1 {
             font-weight: 500;

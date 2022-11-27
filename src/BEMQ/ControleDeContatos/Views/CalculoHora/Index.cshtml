@@ -1,0 +1,122 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<!DOCTYPE html>
+<html lang="pt-br" s>
+
+<body>
+
+    <header id="header">
+
+        <h1 class="display-4 d-grid gap-2 d-md-flex justify-content-md-center">Teste Horas</h1>
+    </header>
+<br />
+
+    <form id="formulario">
+        <h2 class="text-black-50 d-grid gap-2 d-md-flex justify-content-md-center">Calculo Horas:</h2>
+
+        <label for="chegadaHora">
+            <fieldset id="chegada">
+                <legend class="texto" id=" legend1"> Hora da Chegada </legend>
+                <input id="chegadaHora" type="text" maxlength="2" size="2" placeholder="00">
+                <p class="cor">:</p>
+                <input id="chegadaMin" type="text" maxlength="2" size="2" placeholder="00">
+            </fieldset>
+        </label>
+
+        <label for="saidaHora">
+            <fieldset id="saida">
+                <legend class=" text-black-50" id="legend2"> Hora da Saída </legend>
+                <input id="saidaHora" type="text" maxlength="2" size="2" placeholder="00">
+                <p class="cor">:</p>
+                <input id="saidaMin" type="text" maxlength="2" size="2" placeholder="00">
+            </fieldset>
+        </label>
+    </form>
+    <br />
+
+    <div>
+        <button class="btn btn-info btn-block" onclick="horasTrabalhadas();">Calcular Tempo</button>
+
+        <fieldset id="resultado">
+            <legend class="display-5 d-grid gap-2 d-md-flex justify-content-md-center " id="legend3">Tempo Trabalhado</legend>
+            <p class="display-5 d-grid gap-2 d-md-flex justify-content-md-center " id="total"></p>
+        </fieldset>
+    </div>
+
+</body>
+</html>
+<style>
+    body {
+        margin-inline: 3%;
+    }
+    .cor{
+        font-weight:800
+    }
+    .texto{
+        color:black;
+    }
+
+
+    form {
+        display: flow-root;
+        margin: auto;
+        width: 45%;
+        background-color: #f1f1f1;
+        color: #f1f1f1;
+        
+    }
+
+    fieldset {
+        display: flex;
+        padding: 0%;
+        margin-block: 3%;
+        margin-inline: 10%;
+    }
+
+
+    input {
+        margin: auto;
+        height: 70px;
+        font-size: 200%;
+        font-weight: 500;
+        border-style: hidden;
+        background-color: #f1f1f1;
+        
+    }
+
+        input#chegadaHora, input#saidaHora {
+            margin-right: 3px;
+            background-color: #f1f1f1;
+       
+       }
+
+        input#chegadaMin, input#saidaMin {
+            margin-left: 2px;
+            margin-right: 10px;
+            background-color: #f1f1f1;
+        }
+
+    p {
+        font-size: 200%;
+        font-family: Roboto, Helvetica, sans-serif;
+        font-weight: 500;
+    }
+
+
+
+    
+    
+
+    p#total {
+        margin-inline: 10%;
+        margin-block: 4%;
+        padding: 0%;
+        width: 100%;
+        font-size: 250%;
+        font-weight: 500;
+    }
+
+</style>
