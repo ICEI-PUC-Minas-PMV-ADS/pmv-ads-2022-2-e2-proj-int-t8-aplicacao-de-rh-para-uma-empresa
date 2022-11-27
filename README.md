@@ -34,7 +34,7 @@ Para ter acesso a aplicação interativa, <a href="http://luizferri-001-site1.ft
 
 Para fazer o login no sistema, utilize os dados abaixo:
 
-Email: admin@teste.br
+Login: Teste01
 <br>
 Senha: 12345
 # Documentação
