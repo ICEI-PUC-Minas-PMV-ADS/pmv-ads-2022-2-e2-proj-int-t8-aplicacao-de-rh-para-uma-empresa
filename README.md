@@ -29,15 +29,14 @@ O objetivo é a criação de uma aplicação web, onde torna-se possível o regi
 
 
 ## Instruções de utilização <br>
-<ul>
-  <li>Site disponibiliado na internet</li>
-  <li>Devera ser utilizado no navegador google chrome.</li>
-  </ul>
-<ul>
-  <li> Usuario de teste - login : admin</li>
-  <li> Usuario de teste - senha : admin</li>
-  </ul>
 
+Para ter acesso a aplicação interativa, <a href="http://luizferri-001-site1.ftempurl.com/">clique aqui</a>.
+
+Para fazer o login no sistema, utilize os dados abaixo:
+
+Email: admin@teste.br
+<br>
+Senha: 12345
 # Documentação
 
 <ol>
