@@ -1,0 +1,155 @@
+﻿@{
+    ViewData["Title"] = "Página Inicial";
+}
+<style>
+
+    body {
+        font-family: Roboto, Helvetica, sans-serif;
+        background: url(https://images.unsplash.com/photo-1505327191481-d31e1fb4ff79?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1649&q=80);
+        background-size: cover;
+        background-position: center center;
+        background-repeat: no-repeat;
+        margin: auto;
+    }
+
+    section {
+        padding: 2rem 0;
+    }
+
+    img {
+        display: block;
+        max-width: 100%;
+    }
+
+    h2 {
+        font-family: Roboto, Helvetica, sans-serif;
+        line-height: 1.2;
+        font-weight: 700;
+    }
+
+    p {
+        font-size: 0.875rem;
+        line-height: 1.5;
+    }
+
+    .corpo {
+        max-width: 1200px;
+        margin-left: auto;
+        margin-right: auto;
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+
+    .servicos-home {
+        width: 100%;
+        text-align: center;
+        background-color: rgba(66, 58, 58, 0.432);
+        color: #fff;
+        margin: 50px;
+        margin-left: 0;
+        padding: 10px;
+        padding-left: 0;
+        border-radius: 30px 30px;
+    }
+
+    .servicos-lista {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        gap: 2rem;
+        text-align: left;
+        padding: 1rem 0;
+    }
+
+        .servicos-lista li {
+            display: grid;
+            grid-template-columns: auto minmax(200px, 1fr);
+            gap: 1rem;
+            align-items: center;
+            cursor: pointer;
+        }
+
+        .servicos-lista img {
+            border-radius: 10%;
+            box-shadow: 4px 4px 4px rgba(255, 255, 255, 0.3);
+            cursor: pointer;
+        }
+
+        .servicos-lista h2 {
+            font-size: 1.125rem;
+            margin-bottom: 1rem;
+            color: #ffff;
+            text-transform: uppercase;
+        }
+
+        .servicos-lista p {
+            font-size: 1rem;
+            line-height: 1;
+        }
+
+    html {
+        scroll-behavior: smooth;
+    }
+
+
+    .main {
+        margin-top: 0;
+        width: 100%;
+        height: 500px;
+        color: #ffff;
+        text-align: left;
+        display: flex;
+        align-items: center;
+        font-family: "Segoe UI", Arial, sans-serif;
+    }
+
+        .main h1 {
+            font-size: 5.25rem;
+            text-transform: uppercase;
+        }
+
+        .main h3 {
+            font-size: 2.125rem;
+            font-style: italic;
+        }
+
+    
+ </style>
+
+<main class="main">
+    <div>
+        <img src="~/lib/NewLogo.png">
+
+        <h4>O seu RH muito mais próximo de você!</h4>
+    </div>
+</main>
+
+
+<section class="servicos-home">
+    <div class="corpo">
+        <ul class="servicos-lista">
+            <li>
+                <img src="/lib/registro-online.png" alt="BaterPonto">
+                <div class="box">
+                    <h2>Registrar</h2>
+                    <a class="btn btn-info" asp-controller="Contato" asp-action="Criar" role="button">Registrar Ponto</a>
+                </div>
+            </li>
+            <li>
+                <img src="/lib/chamar.png" alt="FolhaDePonto">
+                <div class="box">
+                    <h2>Folha de Ponto</h2>
+                    <a class="btn btn-info" asp-controller="Contato" asp-action="Index" role="button">Banco de Horas</a>
+                  
+                </div>
+            </li>
+            <li>
+                <img src="/lib/cheque-bancario.png" alt="ContraCheque">
+                <div class="box">
+                    <h2>Holerite</h2>
+                    <a class="btn btn-info" asp-controller="Recibo" asp-action="Index" role="button">Demonstrativo</a>
+                </div>
+            </li>
+
+        </ul>
+    </div>
+</section>

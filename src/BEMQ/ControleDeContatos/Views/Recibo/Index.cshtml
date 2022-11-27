@@ -1,0 +1,79 @@
+﻿@{
+    ViewData["Title"] = "Página Restrita";
+}
+
+<div class="container">
+    <div class="col-sm-2"></div>
+    <div class="col-sm-8">
+        <div class="panel panel-primary" id="panelPrincipal">
+            <div class=" display-4 d-grid gap-2 d-md-flex justify-content-md-end">Pagamento Mês </div>
+            <br />
+            <div class="panel-body">
+                <div class="col-sm-6">
+                    <form action="/" method="post">
+                        <div class="form-group " >
+                            <div class="checkbox-inline causa">
+                                <label><input type="checkbox" name="op1" value="renta" class="form-check-input causa" />Vale Transporte</label>
+                            </div>
+                            <div class="checkbox-inline causa">
+                                <label><input type="checkbox" name="op2" value="isss" class="form-check-input causa" />INSS</label>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <input type="text" class="form-control" onkeypress="return check(event)" name="txtnombre" value="" autocomplete="off" placeholder="Digite o nome do funcionário" required />
+                        </div>
+                        <div class="form-group">
+                            <input type="number" class="form-control" name="txtpagoHora" value="" autocomplete="off" placeholder="Insira o pagamento por hora" required />
+                        </div>
+                        <div class="form-group">
+                            <input type="number" class="form-control" name="txthoras" value="" autocomplete="off" placeholder="Insira o total de horas trabalhadas" required />
+                        </div>
+                        <div class="form-group">
+                            <button type="submit" class="btn btn-info btn-block" name="btn">CALCULAR</button>
+                            <a class="btn btn-secondary btn-block" asp-controller="Home" asp-action="Index" role="button">Voltar</a>
+                            
+                        </div>
+                    </form>
+                </div>
+               
+            </div>
+        </div>
+        <hr />
+        <div class="panel panel-group" id="detalle">
+            <div class="panel-success">Composição do Salário</div>
+            <div class="panel-success">
+                <div class="jumbotron">
+                    <div class="col-sm-2"></div>
+                    <form action="/" method="post">
+                        <div class="alert alert-info"><h5>Funcionário: @ViewBag.Nome</h5></div>
+                        <div class="form-group">
+                            <label>Salario bruto</label>
+                            <input type="text" class="form-control" value="@ViewBag.SalarioBruto" readonly id="salariobruto" />
+                        </div>
+
+                        <div class="form-group">
+                            <label>INSS</label>
+                            <input type="text" class="form-control" value="@ViewBag.Inss" readonly />
+                        </div>
+                        <div class="form-group">
+                            <label>Proventos</label>
+                            <input type="text" class="form-control" value="@ViewBag.Salario" readonly />
+                        </div>
+                        <div class="form-group">
+                            <label>Desconto de Vale Transporte</label>
+                            <input type="text" class="form-control" value="@ViewBag.Transporte" readonly />
+                        </div>
+                        <div class="form-group">
+                            <label>Desconto de Adiantamento</label>
+                            <input type="text" class="form-control" value="@ViewBag.Adiantamento" readonly />
+                        </div>
+                        <div class="form-group">
+                            <label>Liquido a Receber</label>
+                            <input type="text" class="form-control" value="@ViewBag.SalarioDoMes" readonly />
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
