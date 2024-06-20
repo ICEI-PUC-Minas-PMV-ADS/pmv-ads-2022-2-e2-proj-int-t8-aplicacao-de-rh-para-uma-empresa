@@ -1,0 +1,24 @@
+message: Please cite this software using these metadata.
+title: APLICAÇÃO DE RH VISANDO EMPRESAS
+authors:
+  - family-names: Ribeiro Santos
+    given-names: Davi  
+  - family-names: Damasceno Pinto
+    given-names: Lucas 
+  - family-names: Fernando Ribeiro Ferreira
+    given-names: Luiz  
+  - family-names: Liberato de Abreu
+    given-names: Nathalia 
+  - family-names: Douglas dos Santos Diego
+    given-names: Patrick 
+  - family-names: Victor Fraga Menighin
+    given-names: Diego 
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Carvalho Monteiro Ferreira
+    given-names: Daniela  
+keywords:
+  - APLICAÇÃO DE RH VISANDO EMPRESAS
+repository-code: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t8-aplicacao-de-rh-para-uma-empresa.git
+version: 1.0.0
+date-released: 2022-11-27
